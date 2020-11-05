@@ -47,3 +47,4 @@ $(document).ready(function(){
     })) 
 })
   
+// Samsung todos clone
